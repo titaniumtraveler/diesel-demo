@@ -1,2 +1,2 @@
 [workspace]
-members = ["diesel-demo"]
+members = ["diesel-demo", "async-diesel-demo"]
