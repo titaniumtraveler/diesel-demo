@@ -1,0 +1,11 @@
+{
+  "connections": [
+    {
+      "name": "diesel-demo",
+      "adapter": "postgres",
+      "host": "localhost",
+      "user": "username",
+      "database": "diesel-demo"
+    }
+  ]
+}
